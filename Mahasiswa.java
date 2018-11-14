@@ -20,4 +20,5 @@ public class Mahasiswa {
     public String getAlamat(){
         return alamat;
     }
+    rtytrjkjhfjgk
 }
